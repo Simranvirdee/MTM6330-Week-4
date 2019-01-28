@@ -1,2 +1,6 @@
 # MTM6330-Week-3
-inclass
+Week 3 inclass
+
+Simran Virdee
+
+010
